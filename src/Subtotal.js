@@ -3,7 +3,7 @@ import "./Subtotal.css"
 
 function Subtotal() {
   return (
-    <div className='subtotal'>Subtotal</div>
+    <div className='subtotal'>Subtotal Page</div>
   )
 }
 
